@@ -12,7 +12,7 @@ export default function Profile() {
     <GalaxyBg>
         <ProfileImage></ProfileImage>
         <Title>Kevin Pleitez</Title>
-        <p>Fullstack developer</p>
+        <h6>Fullstack developer</h6>
         <div>
           
         </div>
