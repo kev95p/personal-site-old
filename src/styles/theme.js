@@ -1,7 +1,9 @@
 
 
 export const theme = {
-    navBg: '#242526',
-    linkActiveBg: "#3a3b3c",
+    bodyBg: '#202330',
+    navBg: '#1e202e',
+    linkActiveBg: "#202330",
     navText: '#FFFFFF',
+    bodyText: '#FFFFFF',
 }

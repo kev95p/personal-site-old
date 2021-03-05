@@ -12,6 +12,10 @@ export default function Profile() {
     <GalaxyBg>
         <ProfileImage></ProfileImage>
         <Title>Kevin Pleitez</Title>
+        <p>Fullstack developer</p>
+        <div>
+          
+        </div>
     </GalaxyBg>
   )
 }
