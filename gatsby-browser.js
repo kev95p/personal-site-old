@@ -1,2 +1,2 @@
 import '@fontsource/roboto-slab'
-import './src/styles/global.css'
+import './src/styles/global.css';
