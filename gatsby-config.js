@@ -6,8 +6,14 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: ['gatsby-plugin-styled-components', `gatsby-plugin-image`,
+  plugins: 
+  [
+    'gatsby-plugin-styled-components', 
+    `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
-    `gatsby-transformer-sharp`,],
+    `gatsby-transformer-sharp`, 
+    `gatsby-plugin-react-helmet`
+  ],
+  pathPrefix: '/personal-site'
 
 }
